@@ -47,7 +47,7 @@ def press(key):
 
 # GUI Setup
 root = tk.Tk()
-root.title("iPhone Style Scientific Calculator")
+root.title("Scientific Calculator")
 root.geometry("420x600")
 root.configure(bg="black")
 
